@@ -4,11 +4,8 @@ date: 2018-10-18T23:03:27.867Z
 description: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non metus
   convallis, euismod purus sit amet, faucibus lacus. Phasellus quis pretium
-  massa. Quisque ac nibh auctor, porta nisi a, laoreet tellus. Aliquam facilisis
-  lobortis dui id mattis. Nullam imperdiet metus sed ultrices dictum. Proin id
-  urna quis sem varius vehicula eu rhoncus tortor. Donec vestibulum vitae urna
-  sit amet ullamcorper. Pellentesque eros ipsum, condimentum ut mattis sed,
-  tristique quis augue. Aenean vel pharetra enim, in tincidunt tortor.
+  massa. Quisque ac nibh auctor, porta nisi a, laoreet tellus.
+image: /img/about-direct-sourcing.jpg
 ---
 ![Developing Countries](/img/about-reinvest-profits.jpg)
 
