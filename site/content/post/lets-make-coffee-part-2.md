@@ -9,7 +9,9 @@ image: /img/about-direct-sourcing.jpg
 ---
 ![Developing Countries](/img/about-reinvest-profits.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non metus convallis, euismod purus sit amet, faucibus lacus. Phasellus quis pretium massa. Quisque ac nibh auctor, porta nisi a, laoreet tellus. Aliquam facilisis lobortis dui id mattis. Nullam imperdiet metus sed ultrices dictum. Proin id urna quis sem varius vehicula eu rhoncus tortor. Donec vestibulum vitae urna sit amet ullamcorper. Pellentesque eros ipsum, condimentum ut mattis sed, tristique quis augue. Aenean vel pharetra enim, in tincidunt tortor.
+[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non metus convallis, euismod purus sit amet, faucibus lacus.](https://sleepy-cray-f01015.netlify.com/values/) Phasellus quis pretium massa. Quisque ac nibh auctor, porta nisi a, laoreet tellus. Aliquam facilisis lobortis dui id mattis. Nullam imperdiet metus sed ultrices dictum. Proin id urna quis sem varius vehicula eu rhoncus tortor. Donec vestibulum vitae urna sit amet ullamcorper. Pellentesque eros ipsum, condimentum ut mattis sed, tristique quis augue. Aenean vel pharetra enim, in tincidunt tortor.
+
+> I know this Coffee is amazing.
 
 ![Farmer](/img/about-sustainable-farming.jpg)
 
